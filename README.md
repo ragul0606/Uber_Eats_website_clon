@@ -25,6 +25,6 @@ Use this section to recap over some of your major learnings while working throug
 Links
 Original site link : https://www.ubereats.com/
 
-Solution URL: https://github.com/ragul0606/SpaceX-Website-Clone
+Solution URL: https://github.com/ragul0606/Uber_Eats_website_clon
 
-Live Site URL: https://tranquil-marshmallow-da013f.netlify.app/
+Live Site URL: https://animated-granita-86e230.netlify.app/
