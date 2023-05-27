@@ -177,6 +177,10 @@ section {
   text-align: start;
 }
 
+.location-box input[type=text]{
+  float: left;
+}
+
 .selection {
   padding: 0.85rem 1rem;
   background-color: #fff;
