@@ -420,6 +420,10 @@ footer {
   margin-bottom: 5rem;
 }
 
+.location-box:type[input] {
+  float: left;
+}
+
 @media screen and (min-width: 576px) {
 }
 
